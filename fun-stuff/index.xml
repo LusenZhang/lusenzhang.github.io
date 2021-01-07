@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun-stuffs on helloEdwin</title>
+    <link>https://lusenzhang.github.io/fun-stuff/</link>
+    <description>Recent content in Fun-stuffs on helloEdwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 07 Jan 2021 14:25:08 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/fun-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>画个小画</title>
+      <link>https://lusenzhang.github.io/fun-stuff/draw/</link>
+      <pubDate>Thu, 07 Jan 2021 14:25:08 -0500</pubDate>
+      
+      <guid>https://lusenzhang.github.io/fun-stuff/draw/</guid>
+      <description>我画的柯南。</description>
+    </item>
+    
+  </channel>
+</rss>
