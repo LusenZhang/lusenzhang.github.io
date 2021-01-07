@@ -25,5 +25,3 @@
 关于。。。还没想好 以后会补上。
 
 
-<script id="dsq-count-scr" src="//helloedwin.disqus.com/count.js" async></script>
-
