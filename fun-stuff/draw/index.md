@@ -2,5 +2,5 @@
 
 
 我画的酸奶。
-![我的小酸奶](/images/oui.JPG "想吃嘛？吃不着，嘻嘻")
+![我的小酸奶](/images/Drawing&Painting/oui.JPG "想吃嘛？吃不着，嘻嘻")
 
