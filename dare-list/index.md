@@ -77,7 +77,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 69. ✗ Visit Sicily 游玩西西里
 70. ✗ Go to South Pole or North Pole 去南极或北极
 71. ✗ Climb Great Pyramid of Giza, Egypt 去埃及看金字塔
-72. ✓Climb Great wall, China 爬长城
+72. ✓ Climb Great wall, China 爬长城
 73. ✗ Hike to Everest base camp 爬珠穆朗玛峰
 74. ✗ Carnival in Brazil 巴西狂欢节
 75. ✓ Christmas in New York 在纽约度过一个圣诞节
