@@ -81,7 +81,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 73. ✗ Hike to Everest base camp 爬珠穆朗玛峰
 74. ✗ Carnival in Brazil 巴西狂欢节
 75. ✓ Christmas in New York 在纽约度过一个圣诞节
-76. ✓ 游玩洛杉矶 trip in LA
+76. ✓ trip in LA 游玩洛杉矶
 77. ✗ Speak at TED 在TED上演讲
 78. ✓ Meet Hebe 见到Hebe 田馥甄
 79. ✗ Invest on a company 投资一家公司
