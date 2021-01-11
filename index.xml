@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 08 Jan 2021 18:53:55 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 10 Jan 2021 20:39:14 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>本周趣事</title>
+    <link>https://lusenzhang.github.io/week1-summary/</link>
+    <pubDate>Sun, 10 Jan 2021 20:39:14 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/week1-summary/</guid>
+    <description><![CDATA[转眼本月第一周就结束了，想想还是蛮快的。年初的时候从朋友那顺了块大白板本来想着以后刷题或许能用到，然后突然间萌生了把计划写上去的想法。因为之]]></description>
+</item><item>
     <title>淡出朋友圈</title>
     <link>https://lusenzhang.github.io/wechat/</link>
     <pubDate>Fri, 08 Jan 2021 18:53:55 -0500</pubDate>
