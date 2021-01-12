@@ -3,7 +3,17 @@
         <title>All Posts - helloEdwin</title>
         <link>https://lusenzhang.github.io/en/posts/</link>
         <description>All Posts | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Jan 2021 10:53:20 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 11 Jan 2021 21:26:04 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Data Structure Class1</title>
+    <link>https://lusenzhang.github.io/en/data-structure-class1/</link>
+    <pubDate>Mon, 11 Jan 2021 21:26:04 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://lusenzhang.github.io/en/data-structure-class1/</guid>
+    <description><![CDATA[Become a solid software engineer, need to achieve the following:
+ Part1 Solid CS basic knowledge Part2 Solid Coding Skills Part3 industry project &ndash;&gt; Outstanding Resume Part4 interview soft power Part5 Referral + career development  Data Structure Data Structure is a particular way of organizing data in a computer so that it can be used efficiently.
+Common data structure
+ Array (physical concepts) Stack (logical concepts) Queue (logical concepts) Linked List (physical concepts) Tree Heap Graph Hash table  Big O notation: algorithm complexity(time complexity, space complexity)]]></description>
+</item><item>
     <title>Basic concepts</title>
     <link>https://lusenzhang.github.io/en/basic_concepts/</link>
     <pubDate>Thu, 07 Jan 2021 10:53:20 -0500</pubDate>
