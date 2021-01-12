@@ -13,5 +13,12 @@
  Part1 Solid CS basic knowledge Part2 Solid Coding Skills Part3 industry project &ndash;&gt; Outstanding Resume Part4 interview soft power Part5 Referral + career development  Data Structure Data Structure is a particular way of organizing data in a computer so that it can be used efficiently.
 Common data structure
  Array (physical concepts) Stack (logical concepts) Queue (logical concepts) Linked List (physical concepts) Tree Heap Graph Hash table  Big O notation: algorithm complexity(time complexity, space complexity)]]></description>
+</item><item>
+    <title>Basic concepts</title>
+    <link>https://lusenzhang.github.io/en/basic_concepts/</link>
+    <pubDate>Thu, 07 Jan 2021 10:53:20 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://lusenzhang.github.io/en/basic_concepts/</guid>
+    <description><![CDATA[All data structures are implemented by two methods: Array and LinkedList.]]></description>
 </item></channel>
 </rss>
