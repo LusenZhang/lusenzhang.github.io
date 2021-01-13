@@ -3,16 +3,9 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 12 Jan 2021 13:18:48 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 10 Jan 2021 20:39:14 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>2018 in Boston</title>
-    <link>https://lusenzhang.github.io/2018-in-boston/</link>
-    <pubDate>Tue, 12 Jan 2021 13:18:48 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2018-in-boston/</guid>
-    <description><![CDATA[2018年5月15日，毕业后的第二天从雪城开到波士顿，开启了毕业之后新生活的第一天。我所在的公寓位于Medford，家门口的橙线地铁直达Bo]]></description>
-</item><item>
     <title>本周趣事</title>
     <link>https://lusenzhang.github.io/week1-summary/</link>
     <pubDate>Sun, 10 Jan 2021 20:39:14 -0500</pubDate>
