@@ -32,7 +32,7 @@ Common data structure
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/lusenzhang.github.io\/en\/data-structure-class1\/"
-        },"genre": "posts","keywords": "Data Structure and Algorithm","wordcount":  744 ,
+        },"genre": "posts","keywords": "Data Structure and Algorithm","wordcount":  762 ,
         "url": "https:\/\/lusenzhang.github.io\/en\/data-structure-class1\/","datePublished": "2021-01-11T21:26:04-05:00","dateModified": "2021-01-11T21:26:04-05:00","publisher": {
             "@type": "Organization",
             "name": "Edwin"},"author": {
@@ -113,7 +113,7 @@ Common data structure
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Data Structure Class1</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/en/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Edwin</a></span>&nbsp;<span class="post-category">included in <a href="/en/categories/class-note/"><i class="far fa-folder fa-fw"></i>Class Note</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-01-11">2021-01-11</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;744 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-01-11">2021-01-11</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;762 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
@@ -135,6 +135,8 @@ Common data structure
     <li><a href="#discussion">Discussion:</a></li>
     <li><a href="#2-merge-sort">2. Merge sort</a></li>
     <li><a href="#discussion-1">Discussion:</a></li>
+    <li><a href="#3-quick-sort">3. Quick Sort</a></li>
+    <li><a href="#q24-rainbow-sort">Q2.4 Rainbow sort</a></li>
   </ul>
 </nav></div>
             </div><div class="content" id="content"><p>Become a solid software engineer, need to achieve the following:</p>
@@ -265,14 +267,14 @@ Common data structure
 </ol>
 <h2 id="2-merge-sort">2. Merge sort</h2>
 <p>a[n] == 1, 3, 5 ,7, 9, 8, 6, 4, 2, 0</p>
-<p><figure><a class="lightgallery" href="/images/DataStructureNote/MergeSort.PNG" title="/images/DataStructureNote/MergeSort.PNG" data-thumbnail="/images/DataStructureNote/MergeSort.PNG" data-sub-html="<h2>001</h2>">
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/MergeSort.PNG" title="/images/DataStructureNote/class1/MergeSort.PNG" data-thumbnail="/images/DataStructureNote/class1/MergeSort.PNG" data-sub-html="<h2>001</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/images/DataStructureNote/MergeSort.PNG"
-            data-srcset="/images/DataStructureNote/MergeSort.PNG, /images/DataStructureNote/MergeSort.PNG 1.5x, /images/DataStructureNote/MergeSort.PNG 2x"
+            data-src="/images/DataStructureNote/class1/MergeSort.PNG"
+            data-srcset="/images/DataStructureNote/class1/MergeSort.PNG, /images/DataStructureNote/class1/MergeSort.PNG 1.5x, /images/DataStructureNote/class1/MergeSort.PNG 2x"
             data-sizes="auto"
-            alt="/images/DataStructureNote/MergeSort.PNG" />
+            alt="/images/DataStructureNote/class1/MergeSort.PNG" />
     </a><figcaption class="image-caption">001</figcaption>
     </figure></p>
 <p>Which small move it「谁小移谁」</p>
@@ -309,37 +311,37 @@ Common data structure
 </code></pre></td></tr></table>
 </div>
 </div><p><strong>Time complexity:</strong></p>
-<p><figure><a class="lightgallery" href="/images/DataStructureNote/MergeSortTime.PNG" title="/images/DataStructureNote/MergeSortTime.PNG" data-thumbnail="/images/DataStructureNote/MergeSortTime.PNG" data-sub-html="<h2>002</h2>">
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/MergeSortTime.PNG" title="/images/DataStructureNote/class1/MergeSortTime.PNG" data-thumbnail="/images/DataStructureNote/class1/MergeSortTime.PNG" data-sub-html="<h2>002</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/images/DataStructureNote/MergeSortTime.PNG"
-            data-srcset="/images/DataStructureNote/MergeSortTime.PNG, /images/DataStructureNote/MergeSortTime.PNG 1.5x, /images/DataStructureNote/MergeSortTime.PNG 2x"
+            data-src="/images/DataStructureNote/class1/MergeSortTime.PNG"
+            data-srcset="/images/DataStructureNote/class1/MergeSortTime.PNG, /images/DataStructureNote/class1/MergeSortTime.PNG 1.5x, /images/DataStructureNote/class1/MergeSortTime.PNG 2x"
             data-sizes="auto"
-            alt="/images/DataStructureNote/MergeSortTime.PNG" />
+            alt="/images/DataStructureNote/class1/MergeSortTime.PNG" />
     </a><figcaption class="image-caption">002</figcaption>
     </figure></p>
 <p><strong>Space complexity: call stack (like DFS)</strong></p>
-<p><figure><a class="lightgallery" href="/images/DataStructureNote/MergeSortSpace.PNG" title="/images/DataStructureNote/MergeSortSpace.PNG" data-thumbnail="/images/DataStructureNote/MergeSortSpace.PNG" data-sub-html="<h2>003</h2>">
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/MergeSortSpace.PNG" title="/images/DataStructureNote/class1/MergeSortSpace.PNG" data-thumbnail="/images/DataStructureNote/class1/MergeSortSpace.PNG" data-sub-html="<h2>003</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/images/DataStructureNote/MergeSortSpace.PNG"
-            data-srcset="/images/DataStructureNote/MergeSortSpace.PNG, /images/DataStructureNote/MergeSortSpace.PNG 1.5x, /images/DataStructureNote/MergeSortSpace.PNG 2x"
+            data-src="/images/DataStructureNote/class1/MergeSortSpace.PNG"
+            data-srcset="/images/DataStructureNote/class1/MergeSortSpace.PNG, /images/DataStructureNote/class1/MergeSortSpace.PNG 1.5x, /images/DataStructureNote/class1/MergeSortSpace.PNG 2x"
             data-sizes="auto"
-            alt="/images/DataStructureNote/MergeSortSpace.PNG" />
+            alt="/images/DataStructureNote/class1/MergeSortSpace.PNG" />
     </a><figcaption class="image-caption">003</figcaption>
     </figure></p>
 <p><strong>if implement by LinkedList:</strong></p>
 <p><strong>Time complexity: O(nlogn) + O(nlogn)</strong></p>
-<p><figure><a class="lightgallery" href="/images/DataStructureNote/MergeSortTime2.PNG" title="/images/DataStructureNote/MergeSortTime2.PNG" data-thumbnail="/images/DataStructureNote/MergeSortTime2.PNG" data-sub-html="<h2>004</h2>">
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/MergeSortTime2.PNG" title="/images/DataStructureNote/class1/MergeSortTime2.PNG" data-thumbnail="/images/DataStructureNote/class1/MergeSortTime2.PNG" data-sub-html="<h2>004</h2>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/images/DataStructureNote/MergeSortTime2.PNG"
-            data-srcset="/images/DataStructureNote/MergeSortTime2.PNG, /images/DataStructureNote/MergeSortTime2.PNG 1.5x, /images/DataStructureNote/MergeSortTime2.PNG 2x"
+            data-src="/images/DataStructureNote/class1/MergeSortTime2.PNG"
+            data-srcset="/images/DataStructureNote/class1/MergeSortTime2.PNG, /images/DataStructureNote/class1/MergeSortTime2.PNG 1.5x, /images/DataStructureNote/class1/MergeSortTime2.PNG 2x"
             data-sizes="auto"
-            alt="/images/DataStructureNote/MergeSortTime2.PNG" />
+            alt="/images/DataStructureNote/class1/MergeSortTime2.PNG" />
     </a><figcaption class="image-caption">004</figcaption>
     </figure></p>
 <h2 id="discussion-1">Discussion:</h2>
@@ -406,7 +408,69 @@ Common data structure
 </span><span class="c1"></span>     <span class="mi">12</span>   <span class="n">CD</span>			<span class="c1">// reverse C2 + C3
 </span></code></pre></td></tr></table>
 </div>
-</div></div><div class="post-footer" id="post-footer">
+</div><h2 id="3-quick-sort">3. Quick Sort</h2>
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/QuickSort1.PNG" title="/images/DataStructureNote/class1/QuickSort1.PNG" data-thumbnail="/images/DataStructureNote/class1/QuickSort1.PNG" data-sub-html="<h2>005</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class1/QuickSort1.PNG"
+            data-srcset="/images/DataStructureNote/class1/QuickSort1.PNG, /images/DataStructureNote/class1/QuickSort1.PNG 1.5x, /images/DataStructureNote/class1/QuickSort1.PNG 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class1/QuickSort1.PNG" />
+    </a><figcaption class="image-caption">005</figcaption>
+    </figure></p>
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/QuickSort2.PNG" title="/images/DataStructureNote/class1/QuickSort2.PNG" data-thumbnail="/images/DataStructureNote/class1/QuickSort2.PNG" data-sub-html="<h2>006</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class1/QuickSort2.PNG"
+            data-srcset="/images/DataStructureNote/class1/QuickSort2.PNG, /images/DataStructureNote/class1/QuickSort2.PNG 1.5x, /images/DataStructureNote/class1/QuickSort2.PNG 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class1/QuickSort2.PNG" />
+    </a><figcaption class="image-caption">006</figcaption>
+    </figure></p>
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/QuickSort3.PNG" title="/images/DataStructureNote/class1/QuickSort3.PNG" data-thumbnail="/images/DataStructureNote/class1/QuickSort3.PNG" data-sub-html="<h2>007</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class1/QuickSort3.PNG"
+            data-srcset="/images/DataStructureNote/class1/QuickSort3.PNG, /images/DataStructureNote/class1/QuickSort3.PNG 1.5x, /images/DataStructureNote/class1/QuickSort3.PNG 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class1/QuickSort3.PNG" />
+    </a><figcaption class="image-caption">007</figcaption>
+    </figure></p>
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/QuickSort4.PNG" title="/images/DataStructureNote/class1/QuickSort4.PNG" data-thumbnail="/images/DataStructureNote/class1/QuickSort4.PNG" data-sub-html="<h2>008</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class1/QuickSort4.PNG"
+            data-srcset="/images/DataStructureNote/class1/QuickSort4.PNG, /images/DataStructureNote/class1/QuickSort4.PNG 1.5x, /images/DataStructureNote/class1/QuickSort4.PNG 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class1/QuickSort4.PNG" />
+    </a><figcaption class="image-caption">008</figcaption>
+    </figure></p>
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/QuickSort5.PNG" title="/images/DataStructureNote/class1/QuickSort5.PNG" data-thumbnail="/images/DataStructureNote/class1/QuickSort5.PNG" data-sub-html="<h2>009</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class1/QuickSort5.PNG"
+            data-srcset="/images/DataStructureNote/class1/QuickSort5.PNG, /images/DataStructureNote/class1/QuickSort5.PNG 1.5x, /images/DataStructureNote/class1/QuickSort5.PNG 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class1/QuickSort5.PNG" />
+    </a><figcaption class="image-caption">009</figcaption>
+    </figure></p>
+<h2 id="q24-rainbow-sort">Q2.4 Rainbow sort</h2>
+<p><figure><a class="lightgallery" href="/images/DataStructureNote/class1/QuickSort6.PNG" title="/images/DataStructureNote/class1/QuickSort6.PNG" data-thumbnail="/images/DataStructureNote/class1/QuickSort6.PNG" data-sub-html="<h2>010</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class1/QuickSort6.PNG"
+            data-srcset="/images/DataStructureNote/class1/QuickSort6.PNG, /images/DataStructureNote/class1/QuickSort6.PNG 1.5x, /images/DataStructureNote/class1/QuickSort6.PNG 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class1/QuickSort6.PNG" />
+    </a><figcaption class="image-caption">010</figcaption>
+    </figure></p>
+</div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">

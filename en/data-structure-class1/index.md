@@ -121,7 +121,7 @@ iteration j = 3: inner n-3 (0..n-1) = 1
 
 a[n] == 1, 3, 5 ,7, 9, 8, 6, 4, 2, 0
 
-![](/images/DataStructureNote/MergeSort.PNG "001")
+![](/images/DataStructureNote/class1/MergeSort.PNG "001")
 
 Which small move it「谁小移谁」
 
@@ -143,17 +143,17 @@ vector<int> mergesort (vector<int> a, int left, int right) {
 
 **Time complexity:** 
 
-![](/images/DataStructureNote/MergeSortTime.PNG   "002")
+![](/images/DataStructureNote/class1/MergeSortTime.PNG   "002")
 
 **Space complexity: call stack (like DFS)**
 
-![](/images/DataStructureNote/MergeSortSpace.PNG   "003")
+![](/images/DataStructureNote/class1/MergeSortSpace.PNG   "003")
 
 **if implement by LinkedList:** 
 
 **Time complexity: O(nlogn) + O(nlogn)**
 
-![](/images/DataStructureNote/MergeSortTime2.PNG   "004")
+![](/images/DataStructureNote/class1/MergeSortTime2.PNG   "004")
 
 ## Discussion:
 
@@ -195,6 +195,20 @@ AB | CD | 12 | 34 	-->	 AB | 12 | CD | 34
 
 
 
+## 3. Quick Sort 
 
+![](/images/DataStructureNote/class1/QuickSort1.PNG   "005")
+
+![](/images/DataStructureNote/class1/QuickSort2.PNG   "006")
+
+![](/images/DataStructureNote/class1/QuickSort3.PNG   "007")
+
+![](/images/DataStructureNote/class1/QuickSort4.PNG   "008")
+
+![](/images/DataStructureNote/class1/QuickSort5.PNG   "009")
+
+## Q2.4 Rainbow sort
+
+![](/images/DataStructureNote/class1/QuickSort6.PNG   "010")
 
 
