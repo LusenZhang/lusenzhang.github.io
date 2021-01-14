@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Java - Tag - helloEdwin</title>
+        <link>https://lusenzhang.github.io/en/tags/java/</link>
+        <description>Java - Tag - helloEdwin</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 13 Jan 2021 20:29:05 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/tags/java/" rel="self" type="application/rss+xml" /><item>
+    <title>Practice Class 1</title>
+    <link>https://lusenzhang.github.io/en/practice-class1/</link>
+    <pubDate>Wed, 13 Jan 2021 20:29:05 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://lusenzhang.github.io/en/practice-class1/</guid>
+    <description><![CDATA[Basic Types and Operations 1. Int, long int and long are both types for representing integers(positive or negative)
+Mathematically, integer set is closed under + - * but not /. (/: 向零取整)
+In Java, when there is decimals, down cast to the closed integer.
+Assignments: =
+2. Float/double float and double are Java representations of real numbers.
+3. char and characters in your program Represents a CHARacter (English letter, or digits, or punctuation)]]></description>
+</item></channel>
+</rss>

@@ -1,4 +1,4 @@
-# Data Structure Class1
+# Data Structure Class 1
 
 
 Become a solid software engineer, need to achieve the following:
