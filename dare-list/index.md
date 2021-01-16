@@ -13,7 +13,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 5. ✗ Learn Yoga 学习瑜伽🧘‍
 6. ✓ Build an own website 搭建自己的个人网站💻
 7. ✗ Get a second master degree 获得第二硕士学位
-8. ✗ Get a MBA 攻读MBA
+8. ✗ Get an MBA 攻读MBA
 9. ✓ Be a software engineer 成为一名软件工程师
 10. ✗ Get a patent 发表专利📃
 11. ✓ Get a PHD degree 获得博士学位
