@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 17 Jan 2021 22:50:45 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 20 Jan 2021 16:04:32 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>假精致</title>
+    <link>https://lusenzhang.github.io/fake-delicate/</link>
+    <pubDate>Wed, 20 Jan 2021 16:04:32 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/fake-delicate/</guid>
+    <description><![CDATA[前阵子某东的一条广告遭到了广大网友的吐槽，土味的内容传达出来的消费观清奇无比。大致内容是一位农民工男子带着母亲乘坐飞机，因为母亲感到身体不适]]></description>
+</item><item>
     <title>2021第一次小聚</title>
     <link>https://lusenzhang.github.io/week2-summary/</link>
     <pubDate>Sun, 17 Jan 2021 22:50:45 -0500</pubDate>
