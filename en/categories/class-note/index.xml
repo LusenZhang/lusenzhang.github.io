@@ -3,7 +3,15 @@
         <title>Class Note - Category - helloEdwin</title>
         <link>https://lusenzhang.github.io/en/categories/class-note/</link>
         <description>Class Note - Category - helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 13 Jan 2021 20:29:05 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/categories/class-note/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Jan 2021 21:47:57 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/categories/class-note/" rel="self" type="application/rss+xml" /><item>
+    <title>Practice Class 2</title>
+    <link>https://lusenzhang.github.io/en/practice-class2/</link>
+    <pubDate>Thu, 21 Jan 2021 21:47:57 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://lusenzhang.github.io/en/practice-class2/</guid>
+    <description><![CDATA[Controlling your program and data Conditional and Loop   If&hellip;.[else]
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  public class MyHelloWord { public static void main(String[] args) { int x = 11; //one output  if (x &gt; 0) { System.out.println(&#34;x&gt;0&#34;); } else if (x &gt; 5) { System.out.println(&#34;x&gt;5&#34;); } else if (x &gt; 10) { System.out.println(&#34;x&gt;10&#34;); } else { System.out.println(&#34;others&#34;); } } }   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16  public class MyHelloWord { public static void main(String[] args) { int x = 11; //all output  if (x &gt; 0) { System.]]></description>
+</item><item>
     <title>Practice Class 1</title>
     <link>https://lusenzhang.github.io/en/practice-class1/</link>
     <pubDate>Wed, 13 Jan 2021 20:29:05 -0500</pubDate>
