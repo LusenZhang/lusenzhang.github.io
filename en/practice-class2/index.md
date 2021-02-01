@@ -129,8 +129,10 @@
    }
    ```
 
-   Examples: Change the follow for loop to while loop
+4. Break and Continue
 
-   
+   **Break: jumps out of the entire loop**
+
+   **Continue: skip the current iteration**
 
 

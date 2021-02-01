@@ -3,7 +3,19 @@
         <title>Class Note - Category - helloEdwin</title>
         <link>https://lusenzhang.github.io/en/categories/class-note/</link>
         <description>Class Note - Category - helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Jan 2021 21:47:57 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/categories/class-note/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Jan 2021 21:46:35 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/categories/class-note/" rel="self" type="application/rss+xml" /><item>
+    <title>Data Structure Class2</title>
+    <link>https://lusenzhang.github.io/en/data-structure-class2/</link>
+    <pubDate>Thu, 28 Jan 2021 21:46:35 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://lusenzhang.github.io/en/data-structure-class2/</guid>
+    <description><![CDATA[Class 2 Recursion I &amp; Binary Search Recursion key points:
+  Seeming: function calls itself.
+  In essence: Boil down a big problem to smaller ones (size n depends on size n -1, or n - 2 or &hellip;n/2)
+  implement:
+a. Base Case: smallest problem to solve
+b. Recursive rule: how to make the problem smaller (if we can resolve the same problem but with a smaller size, then what is left to do for the current problem size n)]]></description>
+</item><item>
     <title>Practice Class 2</title>
     <link>https://lusenzhang.github.io/en/practice-class2/</link>
     <pubDate>Thu, 21 Jan 2021 21:47:57 -0500</pubDate>
