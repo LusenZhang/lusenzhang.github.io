@@ -3,7 +3,14 @@
         <title>所有文章 - helloEdwin</title>
         <link>https://lusenzhang.github.io/posts/</link>
         <description>所有文章 | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 31 Jan 2021 21:54:30 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 03 Feb 2021 15:58:45 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2021 立春</title>
+    <link>https://lusenzhang.github.io/2021-booklist-spring/</link>
+    <pubDate>Wed, 03 Feb 2021 15:58:45 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/2021-booklist-spring/</guid>
+    <description><![CDATA[码完字瞟了眼台历，不知不觉发现2021的第一个月已经过去了。是不是还有一种才开年没几天的感觉呢？有些时候我也在思考为什么现在时间过的这么快？]]></description>
+</item><item>
     <title>时光小偷</title>
     <link>https://lusenzhang.github.io/week4-summary/</link>
     <pubDate>Sun, 31 Jan 2021 21:54:30 -0500</pubDate>
@@ -66,12 +73,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/2021-first-post/</guid>
     <description><![CDATA[001" 001 这是2021年的第一篇博客，由于之前的博客仓库出了一些小状况导致恢复起来很麻烦，正好借此机会从hexo转移到hugo。希望这是最后一次“]]></description>
-</item><item>
-    <title>2017 夏 @ UIUC</title>
-    <link>https://lusenzhang.github.io/2017atuiuc/</link>
-    <pubDate>Sun, 16 Jul 2017 17:22:28 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2017atuiuc/</guid>
-    <description><![CDATA[001" 001 002" 002 晓宇说陆森是一个第一次做了什么都一定要记下来的人，在倒数10天的日子里，多的都变成了最后一次。最后一次为了去面面居错过班车也要用跑的]]></description>
 </item></channel>
 </rss>
