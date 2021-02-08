@@ -36,7 +36,7 @@ b. Recursive rule: how to make the problem smaller (if we can resolve the same p
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/lusenzhang.github.io\/en\/data-structure-class2\/"
-        },"genre": "posts","keywords": "Data Structure and Algorithm","wordcount":  562 ,
+        },"genre": "posts","keywords": "Data Structure and Algorithm","wordcount":  1112 ,
         "url": "https:\/\/lusenzhang.github.io\/en\/data-structure-class2\/","datePublished": "2021-01-28T21:46:35-05:00","dateModified": "2021-01-28T21:46:35-05:00","publisher": {
             "@type": "Organization",
             "name": "Edwin"},"author": {
@@ -117,8 +117,8 @@ b. Recursive rule: how to make the problem smaller (if we can resolve the same p
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Data Structure Class2</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/en/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Edwin</a></span>&nbsp;<span class="post-category">included in <a href="/en/categories/class-note/"><i class="far fa-folder fa-fw"></i>Class Note</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-01-28">2021-01-28</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;562 words&nbsp;
-                <i class="far fa-clock fa-fw"></i>&nbsp;3 minutes&nbsp;</div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-01-28">2021-01-28</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;1112 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;6 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
                 <div class="details-summary toc-title">
                     <span>Contents</span>
@@ -316,6 +316,176 @@ b. Recursive rule: how to make the problem smaller (if we can resolve the same p
   <span class="p">}</span>
   <span class="k">return</span> <span class="o">-</span><span class="mi">1</span><span class="p">;</span>
 <span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Apply binary search in 2D space</strong></p>
+<p><strong>Variant 1.0 application</strong>: 2D matrix, sorted on each row, first element of next row is larger(or equal) to the last element of previous row, now giving a target number, returning the position that the target locates within the matrix</p>
+<p>1 	2	3	4</p>
+<p>5	 6.   7    8</p>
+<p>9    10  11  12</p>
+<p><strong>Solution 1</strong>:</p>
+<p>Step1: Run binary search in the 0-th column to find the possible row that contains target</p>
+<p>Step2: Run 2nd binary search, in the particular row to find target (if any)</p>
+<p>Time = O(logo + logn) = O(log(m*n))</p>
+<p><strong>Solution 2</strong>:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="kt">boolean</span> <span class="nf">ifFind</span><span class="o">(</span><span class="kt">int</span><span class="o">[][]</span> <span class="n">matrix</span><span class="o">,</span> <span class="kt">int</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+  <span class="k">if</span> <span class="o">(</span><span class="n">matrix</span><span class="o">.</span><span class="na">length</span> <span class="o">==</span> <span class="n">0</span> <span class="o">||</span> <span class="n">matrix</span><span class="o">[</span><span class="n">0</span><span class="o">].</span><span class="na">length</span> <span class="o">==</span> <span class="n">0</span><span class="o">)</span> <span class="o">{</span>
+    <span class="k">return</span> <span class="kc">false</span><span class="o">;</span>
+  <span class="o">}</span>
+  <span class="kt">int</span> <span class="n">row</span> <span class="o">=</span> <span class="n">matrix</span><span class="o">.</span><span class="na">length</span><span class="o">;</span>
+  <span class="kt">int</span> <span class="n">col</span> <span class="o">=</span> <span class="n">matrix</span><span class="o">[</span><span class="n">0</span><span class="o">].</span><span class="na">length</span><span class="o">;</span>
+  <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="n">0</span><span class="o">;</span>
+  <span class="kt">int</span> <span class="n">row</span> <span class="o">*</span> <span class="n">col</span> <span class="o">-</span> <span class="n">1</span><span class="o">;</span>
+  <span class="k">while</span> <span class="o">(</span><span class="n">i</span> <span class="o">&lt;</span> <span class="n">j</span><span class="o">)</span> <span class="o">{</span>
+    <span class="kt">int</span> <span class="n">mid</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="o">(</span><span class="n">j</span> <span class="o">-</span> <span class="n">i</span><span class="o">)</span> <span class="o">/</span> <span class="n">2</span><span class="o">;</span>
+    <span class="kt">int</span> <span class="n">r</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">/</span> <span class="n">col</span><span class="o">;</span> <span class="c1">//helper function to map n-dimensional coordinate to 1D coordinate
+</span><span class="c1"></span>    <span class="kt">int</span> <span class="n">c</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">%</span> <span class="n">col</span><span class="o">;</span>
+    <span class="k">if</span> <span class="o">(</span><span class="n">matrix</span><span class="o">[</span><span class="n">r</span><span class="o">][</span><span class="n">c</span><span class="o">]</span> <span class="o">==</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+      <span class="k">return</span> <span class="kc">true</span><span class="o">;</span>
+    <span class="o">}</span> <span class="k">else</span> <span class="k">if</span> <span class="o">(</span><span class="n">matrix</span><span class="o">[</span><span class="n">r</span><span class="o">][</span><span class="n">c</span><span class="o">]</span> <span class="o">&gt;</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+      <span class="n">j</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">-</span> <span class="n">1</span><span class="o">;</span>
+    <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+      <span class="n">i</span> <span class="o">=</span> <span class="n">mid</span> <span class="o">+</span> <span class="n">1</span><span class="o">;</span>
+    <span class="o">}</span>
+  <span class="o">}</span>
+  <span class="k">return</span> <span class="kc">false</span><span class="o">;</span>
+<span class="o">}</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>Time = O(log(m*n))</p>
+<p>Variant 1.1 how to find an element in the array that is <strong>closest</strong> to the target number?</p>
+<p>Target == 4</p>
+<p>// e.g.	int a[5] = {1, 2, <strong>3</strong>, 8, 9}</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-java" data-lang="java"><span class="kt">int</span> <span class="nf">binary_search</span><span class="o">(</span><span class="kt">int</span> <span class="n">a</span><span class="o">[],</span> <span class="kt">int</span> <span class="n">size</span><span class="o">,</span> <span class="kt">int</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+  <span class="kt">int</span> <span class="n">left</span> <span class="o">=</span> <span class="n">0</span><span class="o">;</span>
+  <span class="kt">int</span> <span class="n">right</span><span class="o">=</span> <span class="n">size</span> <span class="o">-</span> <span class="n">1</span><span class="o">;</span>
+  <span class="k">while</span><span class="o">(</span><span class="n">left</span> <span class="o">&lt;</span> <span class="n">right</span><span class="o">)</span> <span class="o">{</span>				<span class="c1">//avoid infinite loop
+</span><span class="c1"></span>    <span class="kt">int</span> <span class="n">mid</span> <span class="o">=</span> <span class="n">left</span> <span class="o">+</span> <span class="o">(</span><span class="n">right</span> <span class="o">-</span> <span class="n">left</span><span class="o">)</span> <span class="o">/</span> <span class="n">2</span><span class="o">;</span>
+    <span class="k">if</span> <span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">mid</span><span class="o">]</span> <span class="o">==</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+      <span class="k">return</span> <span class="n">mid</span><span class="o">;</span>
+    <span class="o">}</span> <span class="k">else</span> <span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">mid</span><span class="o">]</span> <span class="o">&lt;</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+      <span class="n">left</span> <span class="o">=</span> <span class="n">mid</span><span class="o">;</span>							<span class="c1">//Wrong left = mid + 1
+</span><span class="c1"></span>    <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+      <span class="n">right</span> <span class="o">=</span> <span class="n">mid</span><span class="o">;</span>						<span class="c1">//Wrong right = mid - 1
+</span><span class="c1"></span>    <span class="o">}</span> 
+  <span class="o">}</span>
+  <span class="c1">//post-processing
+</span><span class="c1"></span>  <span class="k">if</span> <span class="o">(</span><span class="n">Math</span><span class="o">.</span><span class="na">abs</span><span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">left</span><span class="o">]</span> <span class="o">-</span> <span class="n">target</span><span class="o">)</span> <span class="o">&lt;</span> <span class="n">Math</span><span class="o">.</span><span class="na">abs</span><span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">right</span><span class="o">]</span> <span class="o">-</span> <span class="n">target</span><span class="o">))</span> <span class="o">{</span>
+    <span class="k">return</span> <span class="n">left</span><span class="o">;</span>
+  <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+    <span class="k">return</span> <span class="n">right</span><span class="o">;</span>
+  <span class="o">}</span>
+<span class="o">}</span>
+
+</code></pre></td></tr></table>
+</div>
+</div><p><figure><a class="lightgallery" href="/images/DataStructureNote/class2/algo2_2.png" title="/images/DataStructureNote/class2/algo2_2.png" data-thumbnail="/images/DataStructureNote/class2/algo2_2.png" data-sub-html="<h2>002</h2>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/DataStructureNote/class2/algo2_2.png"
+            data-srcset="/images/DataStructureNote/class2/algo2_2.png, /images/DataStructureNote/class2/algo2_2.png 1.5x, /images/DataStructureNote/class2/algo2_2.png 2x"
+            data-sizes="auto"
+            alt="/images/DataStructureNote/class2/algo2_2.png" />
+    </a><figcaption class="image-caption">002</figcaption>
+    </figure></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-java" data-lang="java"><span class="c1">// e.g int a[7] = {4, 5, 5, 5, 5, 5, 5};
+</span><span class="c1">// if target == 5;  then index 1 is returned;
+</span><span class="c1">// if target == 10; then -1 is returned.
+</span><span class="c1">// Termination condition: when L meets R, jump out the while loop, then compare L and R to find the correct answer.(= post-processing).
+</span><span class="c1"></span><span class="kt">int</span> <span class="nf">BinarySearch</span><span class="o">(</span><span class="kt">int</span> <span class="n">a</span><span class="o">[],</span> <span class="kt">int</span> <span class="n">left</span><span class="o">,</span> <span class="kt">int</span> <span class="n">right</span><span class="o">,</span> <span class="kt">int</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+  <span class="kt">int</span> <span class="n">mid</span><span class="o">;</span>
+  <span class="k">while</span> <span class="o">(</span><span class="n">left</span> <span class="o">&lt;</span> <span class="n">right</span> <span class="o">-</span> <span class="n">1</span><span class="o">)</span> <span class="o">{</span> <span class="c1">// if left neighbors right --&gt; terminate
+</span><span class="c1"></span>    <span class="n">mid</span> <span class="o">=</span> <span class="n">left</span> <span class="o">+</span> <span class="o">(</span><span class="n">right</span> <span class="o">-</span> <span class="n">left</span><span class="o">)</span> <span class="o">/</span> <span class="n">2</span><span class="o">;</span>
+    <span class="k">if</span> <span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">mid</span><span class="o">]</span> <span class="o">==</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+      <span class="n">right</span> <span class="o">=</span> <span class="n">mid</span><span class="o">;</span>
+    <span class="c1">// do not stop here, keep checking to left
+</span><span class="c1"></span>    <span class="o">}</span> <span class="k">else</span> <span class="k">if</span> <span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">mid</span><span class="o">]</span> <span class="o">&lt;</span> <span class="n">target</span><span class="o">)</span> <span class="o">{</span>
+      <span class="n">left</span> <span class="o">=</span> <span class="n">mid</span><span class="o">;</span>				<span class="c1">//left = mid + 1;
+</span><span class="c1"></span>    <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+      <span class="n">right</span> <span class="o">=</span> <span class="n">mid</span><span class="o">;</span>			<span class="c1">//right = mid - 1;
+</span><span class="c1"></span>    <span class="o">}</span>
+  <span class="o">}</span>
+  <span class="k">if</span> <span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">left</span><span class="o">]</span> <span class="o">==</span> <span class="n">target</span><span class="o">)</span> <span class="k">return</span> <span class="n">left</span><span class="o">;</span> <span class="c1">//check a[left] against target first
+</span><span class="c1"></span>  <span class="k">if</span> <span class="o">(</span><span class="n">a</span><span class="o">[</span><span class="n">right</span><span class="o">]</span> <span class="o">==</span> <span class="n">target</span><span class="o">)</span> <span class="k">return</span> <span class="n">right</span><span class="o">;</span> <span class="c1">//then check a[right] against target
+</span><span class="c1"></span>  <span class="k">return</span> <span class="o">-</span><span class="n">1</span><span class="o">;</span>
+<span class="o">}</span>
 </code></pre></td></tr></table>
 </div>
 </div></div><div class="post-footer" id="post-footer">

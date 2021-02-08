@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 03 Feb 2021 15:58:45 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Feb 2021 22:56:37 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>二月初，三两事</title>
+    <link>https://lusenzhang.github.io/week5-summary/</link>
+    <pubDate>Sun, 07 Feb 2021 22:56:37 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/week5-summary/</guid>
+    <description><![CDATA[想不到年前的这一周发生的事情还挺多。简单梳理一下： 纽约某人三个月资产涨幅300%+，12万+暴涨破50万，着实令人佩服且眼馋了。保守如我也被]]></description>
+</item><item>
     <title>2021 立春</title>
     <link>https://lusenzhang.github.io/2021-booklist-spring/</link>
     <pubDate>Wed, 03 Feb 2021 15:58:45 -0500</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/wechat/</guid>
     <description><![CDATA[记得刚上大学那年，iPhone4开始在国内席卷整个市场，我也拿走我人生中第一部智能手机步入了大学时代。同年互联网行业出了很多款社交媒体app]]></description>
-</item><item>
-    <title>2021 新的开始</title>
-    <link>https://lusenzhang.github.io/2021-first-post/</link>
-    <pubDate>Tue, 05 Jan 2021 17:11:58 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2021-first-post/</guid>
-    <description><![CDATA[001" 001 这是2021年的第一篇博客，由于之前的博客仓库出了一些小状况导致恢复起来很麻烦，正好借此机会从hexo转移到hugo。希望这是最后一次“]]></description>
 </item></channel>
 </rss>

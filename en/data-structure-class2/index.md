@@ -129,4 +129,107 @@ int binary_search(int a[], int size, int target) {
 }
 ```
 
+ **Apply binary search in 2D space**
+
+**Variant 1.0 application**: 2D matrix, sorted on each row, first element of next row is larger(or equal) to the last element of previous row, now giving a target number, returning the position that the target locates within the matrix
+
+1 	2	3	4
+
+5	 6.   7    8
+
+9    10  11  12 
+
+**Solution 1**:
+
+Step1: Run binary search in the 0-th column to find the possible row that contains target
+
+Step2: Run 2nd binary search, in the particular row to find target (if any)
+
+Time = O(logo + logn) = O(log(m*n))
+
+**Solution 2**:
+
+```java
+public boolean ifFind(int[][] matrix, int target) {
+  if (matrix.length == 0 || matrix[0].length == 0) {
+    return false;
+  }
+  int row = matrix.length;
+  int col = matrix[0].length;
+  int i = 0;
+  int row * col - 1;
+  while (i < j) {
+    int mid = i + (j - i) / 2;
+    int r = mid / col; //helper function to map n-dimensional coordinate to 1D coordinate
+    int c = mid % col;
+    if (matrix[r][c] == target) {
+      return true;
+    } else if (matrix[r][c] > target) {
+      j = mid - 1;
+    } else {
+      i = mid + 1;
+    }
+  }
+  return false;
+}
+```
+
+Time = O(log(m*n))
+
+Variant 1.1 how to find an element in the array that is **closest** to the target number?
+
+Target == 4
+
+// e.g.	int a[5] = {1, 2, **3**, 8, 9}
+
+```java
+int binary_search(int a[], int size, int target) {
+  int left = 0;
+  int right= size - 1;
+  while(left < right) {				//avoid infinite loop
+    int mid = left + (right - left) / 2;
+    if (a[mid] == target) {
+      return mid;
+    } else (a[mid] < target) {
+      left = mid;							//Wrong left = mid + 1
+    } else {
+      right = mid;						//Wrong right = mid - 1
+    } 
+  }
+  //post-processing
+  if (Math.abs(a[left] - target) < Math.abs(a[right] - target)) {
+    return left;
+  } else {
+    return right;
+  }
+}
+
+```
+
+![](/images/DataStructureNote/class2/algo2_2.png   "002")
+
+```java
+// e.g int a[7] = {4, 5, 5, 5, 5, 5, 5};
+// if target == 5;  then index 1 is returned;
+// if target == 10; then -1 is returned.
+// Termination condition: when L meets R, jump out the while loop, then compare L and R to find the correct answer.(= post-processing).
+int BinarySearch(int a[], int left, int right, int target) {
+  int mid;
+  while (left < right - 1) { // if left neighbors right --> terminate
+    mid = left + (right - left) / 2;
+    if (a[mid] == target) {
+      right = mid;
+    // do not stop here, keep checking to left
+    } else if (a[mid] < target) {
+      left = mid;				//left = mid + 1;
+    } else {
+      right = mid;			//right = mid - 1;
+    }
+  }
+  if (a[left] == target) return left; //check a[left] against target first
+  if (a[right] == target) return right; //then check a[right] against target
+  return -1;
+}
+```
+
 
