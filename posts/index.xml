@@ -3,7 +3,21 @@
         <title>所有文章 - helloEdwin</title>
         <link>https://lusenzhang.github.io/posts/</link>
         <description>所有文章 | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Feb 2021 22:56:37 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Feb 2021 23:02:18 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2021 春节</title>
+    <link>https://lusenzhang.github.io/2021-spring-festival/</link>
+    <pubDate>Fri, 12 Feb 2021 23:02:18 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/2021-spring-festival/</guid>
+    <description><![CDATA[今年的春节似乎和近几年一样，依旧是一个人在美帝过年。最近好像发生了很多事情：Elon Musk（龙哥）当上世界首富；比特币暴涨；地球自转加速一]]></description>
+</item><item>
+    <title>一点小感悟</title>
+    <link>https://lusenzhang.github.io/a-little-insight/</link>
+    <pubDate>Wed, 10 Feb 2021 15:00:22 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/a-little-insight/</guid>
+    <description><![CDATA[无意间听到罗翔老师对于“读万卷书行万里路”这句话的理解，感觉非常不错，希望记录下来分享给各位看官和自己。 古人说行万里路读万卷书，因为你行千里]]></description>
+</item><item>
     <title>二月初，三两事</title>
     <link>https://lusenzhang.github.io/week5-summary/</link>
     <pubDate>Sun, 07 Feb 2021 22:56:37 -0500</pubDate>
@@ -59,19 +73,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/2018-in-boston/</guid>
     <description><![CDATA[关于波士顿，可以写的真是太多了，所以这应该只是第一篇，以后想起来应该还会更新。 三一教堂前" 三一教堂前 2018年5月15日，毕业后的第二天从雪]]></description>
-</item><item>
-    <title>本周趣事</title>
-    <link>https://lusenzhang.github.io/week1-summary/</link>
-    <pubDate>Sun, 10 Jan 2021 20:39:14 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/week1-summary/</guid>
-    <description><![CDATA[转眼本月第一周就结束了，想想还是蛮快的。年初的时候从朋友那顺了块大白板本来想着以后刷题或许能用到，然后突然间萌生了把计划写上去的想法。因为之]]></description>
-</item><item>
-    <title>淡出朋友圈</title>
-    <link>https://lusenzhang.github.io/wechat/</link>
-    <pubDate>Fri, 08 Jan 2021 18:53:55 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/wechat/</guid>
-    <description><![CDATA[记得刚上大学那年，iPhone4开始在国内席卷整个市场，我也拿走我人生中第一部智能手机步入了大学时代。同年互联网行业出了很多款社交媒体app]]></description>
 </item></channel>
 </rss>
