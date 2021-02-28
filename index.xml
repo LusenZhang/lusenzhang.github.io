@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 12 Feb 2021 23:02:18 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 27 Feb 2021 20:34:37 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>你好，李焕英</title>
+    <link>https://lusenzhang.github.io/hello-mom/</link>
+    <pubDate>Sat, 27 Feb 2021 20:34:37 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/hello-mom/</guid>
+    <description><![CDATA[最近最火热的一部华语电影当属——《你好，李焕英》。聚集了喜剧界的一众大咖出演，每一位主演的出场都自带笑点，大过年秉承着乐一乐的心态去看的朋友]]></description>
+</item><item>
     <title>2021 春节</title>
     <link>https://lusenzhang.github.io/2021-spring-festival/</link>
     <pubDate>Fri, 12 Feb 2021 23:02:18 -0500</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/treatment-procrastination/</guid>
     <description><![CDATA[记得刚上大学那会儿，每天上课就是在偷偷玩手机，和室友坐在一起嬉笑，对未来对人生完全没有任何想法，每天都想着中午吃什么，晚上吃什么，夜宵吃什么]]></description>
-</item><item>
-    <title>2018 in Boston 之 初体验</title>
-    <link>https://lusenzhang.github.io/2018-in-boston/</link>
-    <pubDate>Tue, 12 Jan 2021 13:18:48 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2018-in-boston/</guid>
-    <description><![CDATA[关于波士顿，可以写的真是太多了，所以这应该只是第一篇，以后想起来应该还会更新。 三一教堂前" 三一教堂前 2018年5月15日，毕业后的第二天从雪]]></description>
 </item></channel>
 </rss>
