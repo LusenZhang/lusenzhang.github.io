@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 27 Feb 2021 20:34:37 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 06 Mar 2021 23:58:31 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>《坚毅，释放激情与坚持的力量》</title>
+    <link>https://lusenzhang.github.io/grit/</link>
+    <pubDate>Sat, 06 Mar 2021 23:58:31 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/grit/</guid>
+    <description><![CDATA[美国的一个心理学家做了一项研究，一个人的成功到底是取决于他的智商、情商、还是其他的一些东西？他最后得出的结论是坚毅。传统的思想大家会认为一个]]></description>
+</item><item>
     <title>你好，李焕英</title>
     <link>https://lusenzhang.github.io/hello-mom/</link>
     <pubDate>Sat, 27 Feb 2021 20:34:37 -0500</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/week2-summary/</guid>
     <description><![CDATA[H在 lounge 问我要不要喝一杯咖啡，我正好忙完手头上的事于是我开去跟他聊天，中途发现H当天下午就要回国了，并且这次是永久地离开，想起来上一次跟他聊天]]></description>
-</item><item>
-    <title>治疗拖延症</title>
-    <link>https://lusenzhang.github.io/treatment-procrastination/</link>
-    <pubDate>Fri, 15 Jan 2021 23:42:54 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/treatment-procrastination/</guid>
-    <description><![CDATA[记得刚上大学那会儿，每天上课就是在偷偷玩手机，和室友坐在一起嬉笑，对未来对人生完全没有任何想法，每天都想着中午吃什么，晚上吃什么，夜宵吃什么]]></description>
 </item></channel>
 </rss>
