@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 06 Mar 2021 23:58:31 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 20 Mar 2021 22:32:09 -0400</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>2021 春分</title>
+    <link>https://lusenzhang.github.io/chunfen/</link>
+    <pubDate>Sat, 20 Mar 2021 22:32:09 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/chunfen/</guid>
+    <description><![CDATA[鸽了这么久终于还是决定写点流水账来总结一下最近的点滴。 自从过年那阵儿有所懈怠后发现整个二月下旬到现在这一个多月过的远不如一月份充实。原因有很]]></description>
+</item><item>
     <title>《坚毅，释放激情与坚持的力量》</title>
     <link>https://lusenzhang.github.io/grit/</link>
     <pubDate>Sat, 06 Mar 2021 23:58:31 -0500</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/fake-delicate/</guid>
     <description><![CDATA[前阵子某东的一条广告遭到了广大网友的吐槽，土味的内容传达出来的消费观清奇无比。大致内容是一位农民工男子带着母亲乘坐飞机，因为母亲感到身体不适]]></description>
-</item><item>
-    <title>2021第一次小聚</title>
-    <link>https://lusenzhang.github.io/week2-summary/</link>
-    <pubDate>Sun, 17 Jan 2021 22:50:45 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/week2-summary/</guid>
-    <description><![CDATA[H在 lounge 问我要不要喝一杯咖啡，我正好忙完手头上的事于是我开去跟他聊天，中途发现H当天下午就要回国了，并且这次是永久地离开，想起来上一次跟他聊天]]></description>
 </item></channel>
 </rss>
