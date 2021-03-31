@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 20 Mar 2021 22:32:09 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 30 Mar 2021 17:36:17 -0400</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>330想想你</title>
+    <link>https://lusenzhang.github.io/hbd-to-hebe/</link>
+    <pubDate>Tue, 30 Mar 2021 17:36:17 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/hbd-to-hebe/</guid>
+    <description><![CDATA[又是一年330，又是一句我爱你。 每年过生日后紧接着就是我女神Hebe的生日。还记得小的时候跟着死党一起听周杰伦，那时候感觉很酷，很帅，很前卫]]></description>
+</item><item>
     <title>2021 春分</title>
     <link>https://lusenzhang.github.io/chunfen/</link>
     <pubDate>Sat, 20 Mar 2021 22:32:09 -0400</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/week3-summary/</guid>
     <description><![CDATA[2021刚开年，疫情持续了一年多尚未看到停止的迹象，与此同时新年第一个瓜就被迫在睡前刷朋友圈的时候看到了。郑爽代孕弃子这几个字瞬间充斥在了我]]></description>
-</item><item>
-    <title>假精致</title>
-    <link>https://lusenzhang.github.io/fake-delicate/</link>
-    <pubDate>Wed, 20 Jan 2021 16:04:32 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/fake-delicate/</guid>
-    <description><![CDATA[前阵子某东的一条广告遭到了广大网友的吐槽，土味的内容传达出来的消费观清奇无比。大致内容是一位农民工男子带着母亲乘坐飞机，因为母亲感到身体不适]]></description>
 </item></channel>
 </rss>
