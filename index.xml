@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 30 Mar 2021 17:36:17 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 12 Apr 2021 16:32:22 -0400</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>矛盾</title>
+    <link>https://lusenzhang.github.io/learning-korean/</link>
+    <pubDate>Mon, 12 Apr 2021 16:32:22 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/learning-korean/</guid>
+    <description><![CDATA[同樣一個懷抱水火都沸騰 快樂凝望不快樂 妥協共生 同樣一個腦袋對立的靈魂 勇敢挑釁不勇敢 激烈辯論 反抗矛盾 反而矛盾 ——《矛盾》 转眼已经是四月中了，再过]]></description>
+</item><item>
     <title>330想想你</title>
     <link>https://lusenzhang.github.io/hbd-to-hebe/</link>
     <pubDate>Tue, 30 Mar 2021 17:36:17 -0400</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/week4-summary/</guid>
     <description><![CDATA[最近很喜欢听孙燕姿，所以以这首歌作为本文的题目吧。不知不觉2021的第一个月就结束了，说快不快，说慢不慢。想必大家都在新年的第一天开始列好了]]></description>
-</item><item>
-    <title>啊！我奇葩的消费观</title>
-    <link>https://lusenzhang.github.io/week3-summary/</link>
-    <pubDate>Sun, 24 Jan 2021 22:22:21 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/week3-summary/</guid>
-    <description><![CDATA[2021刚开年，疫情持续了一年多尚未看到停止的迹象，与此同时新年第一个瓜就被迫在睡前刷朋友圈的时候看到了。郑爽代孕弃子这几个字瞬间充斥在了我]]></description>
 </item></channel>
 </rss>
