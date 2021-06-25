@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Data Structure and Algorithm - Tag - helloEdwin</title>
-        <link>https://lusenzhang.github.io/en/tags/data-structure-and-algorithm/</link>
+        <link>git://lusenzhang.github.io/en/tags/data-structure-and-algorithm/</link>
         <description>Data Structure and Algorithm - Tag - helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Jan 2021 21:46:35 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/tags/data-structure-and-algorithm/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Jan 2021 21:46:35 -0500</lastBuildDate><atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" /><item>
     <title>Data Structure Class2</title>
-    <link>https://lusenzhang.github.io/en/data-structure-class2/</link>
+    <link>git://lusenzhang.github.io/en/data-structure-class2/</link>
     <pubDate>Thu, 28 Jan 2021 21:46:35 -0500</pubDate>
     <author>Author</author>
-    <guid>https://lusenzhang.github.io/en/data-structure-class2/</guid>
+    <guid>git://lusenzhang.github.io/en/data-structure-class2/</guid>
     <description><![CDATA[Class 2 Recursion I &amp; Binary Search Recursion key points:
   Seeming: function calls itself.
   In essence: Boil down a big problem to smaller ones (size n depends on size n -1, or n - 2 or &hellip;n/2)
@@ -17,20 +17,20 @@ a. Base Case: smallest problem to solve
 b. Recursive rule: how to make the problem smaller (if we can resolve the same problem but with a smaller size, then what is left to do for the current problem size n)]]></description>
 </item><item>
     <title>Data Structure Class 1</title>
-    <link>https://lusenzhang.github.io/en/data-structure-class1/</link>
+    <link>git://lusenzhang.github.io/en/data-structure-class1/</link>
     <pubDate>Mon, 11 Jan 2021 21:26:04 -0500</pubDate>
     <author>Author</author>
-    <guid>https://lusenzhang.github.io/en/data-structure-class1/</guid>
+    <guid>git://lusenzhang.github.io/en/data-structure-class1/</guid>
     <description><![CDATA[Become a solid software engineer, need to achieve the following:
  Part1 Solid CS basic knowledge Part2 Solid Coding Skills Part3 industry project &ndash;&gt; Outstanding Resume Part4 interview soft power Part5 Referral + career development  Data Structure Data Structure is a particular way of organizing data in a computer so that it can be used efficiently.
 Common data structure
  Array (physical concepts) Stack (logical concepts) Queue (logical concepts) Linked List (physical concepts) Tree Heap Graph Hash table  Big O notation: algorithm complexity(time complexity, space complexity)]]></description>
 </item><item>
     <title>Basic concepts</title>
-    <link>https://lusenzhang.github.io/en/basic_concepts/</link>
+    <link>git://lusenzhang.github.io/en/basic_concepts/</link>
     <pubDate>Thu, 07 Jan 2021 10:53:20 -0500</pubDate>
     <author>Author</author>
-    <guid>https://lusenzhang.github.io/en/basic_concepts/</guid>
+    <guid>git://lusenzhang.github.io/en/basic_concepts/</guid>
     <description><![CDATA[All data structures are implemented by two methods: Array and LinkedList.]]></description>
 </item></channel>
 </rss>
