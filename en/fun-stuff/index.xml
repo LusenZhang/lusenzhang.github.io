@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fun-stuffs on helloEdwin</title>
-    <link>git://lusenzhang.github.io/en/fun-stuff/</link>
+    <link>https://lusenzhang.github.io/en/fun-stuff/</link>
     <description>Recent content in Fun-stuffs on helloEdwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Jan 2021 14:25:08 -0500</lastBuildDate><atom:link href="git://lusenzhang.github.io/en/fun-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2021 14:25:08 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/fun-stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fall leaves</title>
-      <link>git://lusenzhang.github.io/en/fun-stuff/photography/</link>
+      <link>https://lusenzhang.github.io/en/fun-stuff/photography/</link>
       <pubDate>Thu, 07 Jan 2021 14:25:08 -0500</pubDate>
       
-      <guid>git://lusenzhang.github.io/en/fun-stuff/photography/</guid>
+      <guid>https://lusenzhang.github.io/en/fun-stuff/photography/</guid>
       <description>Fall leaves 001&#34; 001  002&#34; 002  003&#34; 003  004&#34; 004  005&#34; 005  006&#34; 006  007&#34; 007  008&#34; 008</description>
     </item>
     
