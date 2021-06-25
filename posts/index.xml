@@ -3,7 +3,14 @@
         <title>所有文章 - helloEdwin</title>
         <link>https://lusenzhang.github.io/posts/</link>
         <description>所有文章 | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 20 Apr 2021 23:19:36 -0400</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 21 Jun 2021 22:50:42 -0400</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2021 Summer</title>
+    <link>https://lusenzhang.github.io/2021-summer/</link>
+    <pubDate>Mon, 21 Jun 2021 22:50:42 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/2021-summer/</guid>
+    <description><![CDATA[又到了一年中最爱的季节，我从小就喜欢夏天，记得上学那会儿跟同学聊过关于天气季节的话题，有人喜欢雨天，喜欢那种朦胧美，有人喜欢阴天，因为不会太]]></description>
+</item><item>
     <title>2021 谷雨</title>
     <link>https://lusenzhang.github.io/2021-q1/</link>
     <pubDate>Tue, 20 Apr 2021 23:19:36 -0400</pubDate>
@@ -66,12 +73,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/week5-summary/</guid>
     <description><![CDATA[想不到年前的这一周发生的事情还挺多。简单梳理一下： 纽约某人三个月资产涨幅300%+，12万+暴涨破50万，着实令人佩服且眼馋了。保守如我也被]]></description>
-</item><item>
-    <title>2021 立春</title>
-    <link>https://lusenzhang.github.io/2021-booklist-spring/</link>
-    <pubDate>Wed, 03 Feb 2021 15:58:45 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2021-booklist-spring/</guid>
-    <description><![CDATA[码完字瞟了眼台历，不知不觉发现2021的第一个月已经过去了。是不是还有一种才开年没几天的感觉呢？有些时候我也在思考为什么现在时间过的这么快？]]></description>
 </item></channel>
 </rss>
