@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tech Notes - Category - helloEdwin</title>
-        <link>https://lusenzhang.github.io/en/categories/tech-notes/</link>
+        <link>lusenzhang.github.io/en/categories/tech-notes/</link>
         <description>Tech Notes - Category - helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Jan 2021 10:53:20 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/en/categories/tech-notes/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Jan 2021 10:53:20 -0500</lastBuildDate><atom:link href="lusenzhang.github.io/en/categories/tech-notes/" rel="self" type="application/rss+xml" /><item>
     <title>Basic concepts</title>
-    <link>https://lusenzhang.github.io/en/basic_concepts/</link>
+    <link>lusenzhang.github.io/en/basic_concepts/</link>
     <pubDate>Thu, 07 Jan 2021 10:53:20 -0500</pubDate>
     <author>Author</author>
-    <guid>https://lusenzhang.github.io/en/basic_concepts/</guid>
+    <guid>lusenzhang.github.io/en/basic_concepts/</guid>
     <description><![CDATA[All data structures are implemented by two methods: Array and LinkedList.]]></description>
 </item></channel>
 </rss>
