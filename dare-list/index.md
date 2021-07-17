@@ -16,7 +16,7 @@ Things I want to do before I die. Please let me know if you have any recommendat
 8. ✗ Get an MBA 攻读MBA
 9. ✓ Be a software engineer 成为一名软件工程师
 10. ✗ Get a patent 发表专利📃
-11. ✓ Get a PHD degree 获得博士学位
+11. ✗ Get a PhD degree 获得博士学位
 12. ✗ More than 1k star repo in GitHub 创建github上有收藏破千的项目⭐
 13. ✗ Learn swimming学会游泳🏊‍♀️
 14. ✗ Surfing on oceans 冲浪🏄‍
