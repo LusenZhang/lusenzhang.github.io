@@ -2,7 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://lusenzhang.github.io/categories/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/2021-half-year/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lusenzhang.github.io/categories/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/categories/"
@@ -11,7 +12,7 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/categories/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/"
@@ -20,7 +21,7 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/posts/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/posts/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/posts/"
@@ -29,7 +30,7 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/posts/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/tags/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/tags/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/tags/"
@@ -38,10 +39,11 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/tags/"
                     /></url><url>
+            <loc>https://lusenzhang.github.io/categories/%E6%80%BB%E7%BB%93/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lusenzhang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc><lastmod>2021-07-21T00:14:00-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://lusenzhang.github.io/categories/%E6%97%A5%E5%B8%B8/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://lusenzhang.github.io/recent-status/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lusenzhang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc><lastmod>2021-07-17T01:29:33-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lusenzhang.github.io/2021-summer/</loc><lastmod>2021-06-21T22:50:42-04:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://lusenzhang.github.io/2021-summer/</loc><lastmod>2021-06-21T22:50:42-04:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
             <loc>https://lusenzhang.github.io/2021-q1/</loc><lastmod>2021-04-20T23:19:36-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lusenzhang.github.io/learning-korean/</loc><lastmod>2021-04-12T16:32:22-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lusenzhang.github.io/hbd-to-hebe/</loc><lastmod>2021-03-30T17:36:17-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
