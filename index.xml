@@ -3,9 +3,23 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 21 Jul 2021 00:14:00 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 25 Aug 2021 00:07:15 -0400</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>如何谈恋爱</title>
+    <link>https://lusenzhang.github.io/how-to-fall-in-love/</link>
+    <pubDate>Wed, 25 Aug 2021 00:07:15 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/how-to-fall-in-love/</guid>
+    <description><![CDATA[现在的人分手能力远远大于相爱能力，我不恋爱不结婚我也可以在这个世界上过的很好。 两个相遇，外面再动荡，但是小世界里面很温暖。 我爱他/她，到底爱]]></description>
+</item><item>
+    <title>立秋</title>
+    <link>https://lusenzhang.github.io/2021-fall/</link>
+    <pubDate>Fri, 06 Aug 2021 23:13:07 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/2021-fall/</guid>
+    <description><![CDATA[立秋到，贴秋膘，冬去春来身体好。 今天早上醒来刷了一下朋友圈，看到很多小伙伴在感慨不知不觉竟然秋天来了。是啊，我也很惊讶怎么就突然秋天了呢。可]]></description>
+</item><item>
     <title>2021-半</title>
     <link>https://lusenzhang.github.io/2021-half-year/</link>
     <pubDate>Wed, 21 Jul 2021 00:14:00 -0400</pubDate>
@@ -61,19 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/grit/</guid>
     <description><![CDATA[美国的一个心理学家做了一项研究，一个人的成功到底是取决于他的智商、情商、还是其他的一些东西？他最后得出的结论是坚毅。传统的思想大家会认为一个]]></description>
-</item><item>
-    <title>你好，李焕英</title>
-    <link>https://lusenzhang.github.io/hello-mom/</link>
-    <pubDate>Sat, 27 Feb 2021 20:34:37 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/hello-mom/</guid>
-    <description><![CDATA[最近最火热的一部华语电影当属——《你好，李焕英》。聚集了喜剧界的一众大咖出演，每一位主演的出场都自带笑点，大过年秉承着乐一乐的心态去看的朋友]]></description>
-</item><item>
-    <title>2021 春节</title>
-    <link>https://lusenzhang.github.io/2021-spring-festival/</link>
-    <pubDate>Fri, 12 Feb 2021 23:02:18 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2021-spring-festival/</guid>
-    <description><![CDATA[今年的春节似乎和近几年一样，依旧是一个人在美帝过年。最近好像发生了很多事情：Elon Musk（龙哥）当上世界首富；比特币暴涨；地球自转加速一]]></description>
 </item></channel>
 </rss>
