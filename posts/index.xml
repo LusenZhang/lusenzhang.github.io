@@ -3,7 +3,14 @@
         <title>所有文章 - helloEdwin</title>
         <link>https://lusenzhang.github.io/posts/</link>
         <description>所有文章 | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 25 Aug 2021 00:07:15 -0400</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 03 Oct 2021 23:00:32 -0400</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Too Much——多的是你不知道的事</title>
+    <link>https://lusenzhang.github.io/too-much/</link>
+    <pubDate>Sun, 03 Oct 2021 23:00:32 -0400</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/too-much/</guid>
+    <description><![CDATA[近期发生了很多大大小小的琐事，很多次会迸发出很多感想和感悟但无奈都无法当天立刻记录下来，当有空坐下来静静的准备写日志的时候却发觉已经很难找回]]></description>
+</item><item>
     <title>如何谈恋爱</title>
     <link>https://lusenzhang.github.io/how-to-fall-in-love/</link>
     <pubDate>Wed, 25 Aug 2021 00:07:15 -0400</pubDate>
@@ -66,12 +73,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/chunfen/</guid>
     <description><![CDATA[鸽了这么久终于还是决定写点流水账来总结一下最近的点滴。 自从过年那阵儿有所懈怠后发现整个二月下旬到现在这一个多月过的远不如一月份充实。原因有很]]></description>
-</item><item>
-    <title>《坚毅，释放激情与坚持的力量》</title>
-    <link>https://lusenzhang.github.io/grit/</link>
-    <pubDate>Sat, 06 Mar 2021 23:58:31 -0500</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/grit/</guid>
-    <description><![CDATA[美国的一个心理学家做了一项研究，一个人的成功到底是取决于他的智商、情商、还是其他的一些东西？他最后得出的结论是坚毅。传统的思想大家会认为一个]]></description>
 </item></channel>
 </rss>
