@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://lusenzhang.github.io/categories/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/categories/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/categories/"
@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/categories/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/"
@@ -20,7 +20,7 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/posts/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/posts/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/posts/"
@@ -29,7 +29,7 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/posts/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/tags/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://lusenzhang.github.io/tags/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://lusenzhang.github.io/en/tags/"
@@ -38,9 +38,10 @@
                     hreflang="zh-cn"
                     href="https://lusenzhang.github.io/tags/"
                     /></url><url>
-            <loc>https://lusenzhang.github.io/too-much/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lusenzhang.github.io/categories/%E6%97%A5%E5%B8%B8/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://lusenzhang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lusenzhang.github.io/humans-are-the-worst/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lusenzhang.github.io/categories/%E6%97%A5%E5%B8%B8/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lusenzhang.github.io/tags/%E9%9A%8F%E7%AC%94/</loc><lastmod>2021-11-07T22:46:56-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lusenzhang.github.io/too-much/</loc><lastmod>2021-10-03T23:00:32-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lusenzhang.github.io/how-to-fall-in-love/</loc><lastmod>2021-08-25T00:07:15-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lusenzhang.github.io/categories/%E7%88%B1%E6%83%85/</loc><lastmod>2021-08-25T00:07:15-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://lusenzhang.github.io/tags/%E7%AC%94%E8%AE%B0/</loc><lastmod>2021-08-25T00:07:15-04:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

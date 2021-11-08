@@ -3,9 +3,16 @@
         <title>helloEdwin</title>
         <link>https://lusenzhang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 03 Oct 2021 23:00:32 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 07 Nov 2021 22:46:56 -0500</lastBuildDate>
             <atom:link href="https://lusenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>人什么的最麻烦了</title>
+    <link>https://lusenzhang.github.io/humans-are-the-worst/</link>
+    <pubDate>Sun, 07 Nov 2021 22:46:56 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/humans-are-the-worst/</guid>
+    <description><![CDATA[人啊 真是一種麻煩的生物 呼吸要比說謊還辛苦 誰認真誰認輸 人啊 笑著笑著怎麼就哭了 太清醒比愛困還折騰 不清楚 到底什麼緣故 麻煩到底 矛盾到底 難搞到底 真是無]]></description>
+</item><item>
     <title>Too Much——多的是你不知道的事</title>
     <link>https://lusenzhang.github.io/too-much/</link>
     <pubDate>Sun, 03 Oct 2021 23:00:32 -0400</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/hbd-to-hebe/</guid>
     <description><![CDATA[又是一年330，又是一句我爱你。 每年过生日后紧接着就是我女神Hebe的生日。还记得小的时候跟着死党一起听周杰伦，那时候感觉很酷，很帅，很前卫]]></description>
-</item><item>
-    <title>2021 春分</title>
-    <link>https://lusenzhang.github.io/chunfen/</link>
-    <pubDate>Sat, 20 Mar 2021 22:32:09 -0400</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/chunfen/</guid>
-    <description><![CDATA[鸽了这么久终于还是决定写点流水账来总结一下最近的点滴。 自从过年那阵儿有所懈怠后发现整个二月下旬到现在这一个多月过的远不如一月份充实。原因有很]]></description>
 </item></channel>
 </rss>
