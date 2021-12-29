@@ -97,5 +97,58 @@
 
 ![](/images/2021-back-to-December/IMG_3057.jpg "切热狗，吃炸鸡，现在看到照片还能想起那个味道")
 
-先写这么多吧，明天继续在本文更新之后的小确幸，可以期待一下哦，接下来可是San Diego的多图预警啦！
+也许是因为炸鸡太好吃，也许是因为些许的兴奋和感动，（后来想起来了是因为跟举哥讨论公钥私钥证书签名分发的各种问题结果聊不困了😂）本来有着三小时时差的我竟然还是睡晚了。原本第二天打算一大早七八点出发结果一觉醒来竟然九点半了😱。那么，说时迟那时快，迅速洗漱垫口小面包就踏上了San Diego之旅。
+
+（PS: 原谅愚蠢的我整整一天都忘记之前把曝光补偿设置低了两档而且还没拍raw，这么好的阳光拍出来黑乎乎一片也是醉了，唉，这种遗憾意味着我下次来一定要好好拍啊）
+
+一路迎着橘色的加州阳光向南开到底，第一站便是我最爱的加州系列分校之——UCSD（加州圣地亚哥分校）。
+
+![](/images/2021-back-to-December/1DD3DC0F-577C-4040-941B-1D9AD845F810-68590-00000E51DF90C5EB.jpg "先来张全景，把图书馆和小房子框在一起")
+
+刚到UCSD校园遍能看到一个非常奇特的建筑，这就是UCSD的图书馆。
+
+![](/images/2021-back-to-December/IMG_3168.jpg "听说《盗梦空间》取景建模的灵感就是UCSD的图书馆")
+
+![](/images/2021-back-to-December/1E18E20E-6F82-41E9-AE65-A3530B540690-68590-00000E51FBE78D08.jpg "教学楼顶上神奇的小房子")
+
+记得以前在电影里经常看到美国学生在校园草坪上经常各种活动，野餐、学习、聊天、chil。来美国后才发现真的很多😂，就好像这个样子👇
+
+![](/images/2021-back-to-December/6A2A06DB-8B37-4CEC-A212-105D4EA82F70-68590-00000E520CBA8BBD.jpg "认真学习的样子还是很酷的")
+
+![](/images/2021-back-to-December/IMG_3176.jpg "再来一张游客照")
+
+![](/images/2021-back-to-December/IMG_3181.jpg "再来一张😂")
+
+![](/images/2021-back-to-December/F49E9BA4-A918-4DD2-A676-887130E4DC67-68590-00000E522AF10F88.jpg "其他角度")
+
+![](/images/2021-back-to-December/A8509DC5-9DCB-4A46-B4E2-C64ED902D23E-68590-00000E52387BDF62.jpg "图书馆自下而上")
+
+![](/images/2021-back-to-December/BDA3F551-743E-4044-BAE8-BC461A5A2AF1-68590-00000E523A823753.jpg "还是图书馆")
+
+![](/images/2021-back-to-December/9B36BD7A-44F2-45B4-9802-5890AFF5899A-68590-00000E523CDF08D1.jpg "图书馆竟然从一个地洞向下进入")
+
+![](/images/2021-back-to-December/51252D78-0A65-477C-BFFC-6A5EAC1AEE06-68590-00000E523F39902A.jpg "这大晚上第一次来应该找不到门吧")
+
+绕了一圈我们走到了图书馆的正门😂，下面来几张皂片欣赏一下。
+
+![](/images/2021-back-to-December/23DB4EDE-158B-4346-81E2-7295CD7F7F97-68590-00000E524221155B.jpg "")
+
+![](/images/2021-back-to-December/EEDF9A6B-A7CF-4B58-9747-C1E2D1B3AB44-68590-00000E524D5B0026.jpg "乱入一张记几")
+
+![](/images/2021-back-to-December/AF61D460-26FE-4481-B604-8428C2C97DD2-68590-00000E52524369AD.jpg "找了半天角度竟然乱入一颗卤蛋😱")
+
+![](/images/2021-back-to-December/9A89B2EA-8E53-4226-B05A-736B8880E06C-68590-00000E525A1A62C9.jpg "正门很酷吧")
+
+![](/images/2021-back-to-December/5F5FB598-4C15-4DEB-9CE3-F6978D5E3083-68590-00000E52612E18F3.jpg "正门前的一棵假树")
+
+![](/images/2021-back-to-December/IMG_3187.jpg "这张12mini拍的是不是很棒！")
+
+![](/images/2021-back-to-December/2AF97E53-72CE-4B8F-B602-2053AC10D365-68590-00000E52662C9F39.jpg "不知道是什么楼")
+
+![](/images/2021-back-to-December/08ED70E1-F48B-40E3-B91A-416CFC21F1B8-68590-00000E5268C8C45B.jpg "另一个不知道的hall")
+
+接下来，我们就开去了学校背后的海滩！！
+
+
+
 
