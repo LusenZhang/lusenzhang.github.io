@@ -9,11 +9,13 @@ I am a security software engineer at Great Boston Area. Currently, I am working 
 
 Before that, I got my Master Degree from Syracuse University major in Computer Engineering. 
 
-In 2017 fall, as a team leader, I led our team, named "Trouble Makers", and won **the 2nd place** in our Computer Security course competition of **class 2016 and 2017**.
+In 2017 fall, as a team leader, I led our team, named "Trouble Makers", and won **the 2nd rank** in our Computer Security course competition of **class 2016 and 2017**.
 
 Sometimes, I would like to take some great courses to refresh and solid my technical skills, such as **CS61B. Data Structures** from UC Berkley and **CS225. Data Structures and Algorithms in C++** from UIUC.
 
 In my free time, I travel, painting, photograph and write. I'd like to share my own idea and feelings with others, such as my parents, my friends and of course myself. That's why I created this website which is a great indivadual place to posts anything I want. Meanwhile, I am also a **magician** with t**en years of experience**, and I have performed on various stages and clubs many times.
+
+Usually I write my Blog in Chinsese and feel free to swtich to [Chinese site](https://lusenzhang.github.io) if you are intersted.
 
 ### Contact
 
