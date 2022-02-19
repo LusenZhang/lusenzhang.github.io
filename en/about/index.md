@@ -5,7 +5,7 @@
 
 I'm Lusen Zhang, grew up in Beijing, China, the most beautiful city in the planet.
 
-I am a security software engineer at Great Boston Area. Currently, I am working on compliance security assessment and penetration testing for **Citi Bank web application, web service, micro service, RESTFul API and Grapgh QL**. My main responsibility is for North America.
+I am a Security Software Engineer at Great Boston Area. Currently, I am working on compliance security assessment and penetration testing for **Citi Bank web application, web service, micro service, RESTFul API and Grapgh QL**. My main responsibility is for North America.
 
 Before that, I got my Master Degree from Syracuse University major in Computer Engineering. 
 
