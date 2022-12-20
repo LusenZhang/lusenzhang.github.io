@@ -3,7 +3,14 @@
         <title>所有文章 - helloEdwin</title>
         <link>https://lusenzhang.github.io/posts/</link>
         <description>所有文章 | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 30 Nov 2022 22:20:06 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 11 Dec 2022 23:52:38 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>旅行的意义</title>
+    <link>https://lusenzhang.github.io/the-meaning-of-traveling/</link>
+    <pubDate>Sun, 11 Dec 2022 23:52:38 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/the-meaning-of-traveling/</guid>
+    <description><![CDATA[旅行是消费主义吗？ 我们经常听人说，“旅行是对自己最好的投资，钱花到经历上要比花到东西上更加有意义”，然而一个不可回避的现实是，旅行是很贵的。]]></description>
+</item><item>
     <title>清你马勒戈壁零</title>
     <link>https://lusenzhang.github.io/fuck-off-zero-covid/</link>
     <pubDate>Wed, 30 Nov 2022 22:20:06 -0500</pubDate>
@@ -66,12 +73,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/2021-fall/</guid>
     <description><![CDATA[立秋到，贴秋膘，冬去春来身体好。 今天早上醒来刷了一下朋友圈，看到很多小伙伴在感慨不知不觉竟然秋天来了。是啊，我也很惊讶怎么就突然秋天了呢。可]]></description>
-</item><item>
-    <title>2021-半</title>
-    <link>https://lusenzhang.github.io/2021-half-year/</link>
-    <pubDate>Wed, 21 Jul 2021 00:14:00 -0400</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2021-half-year/</guid>
-    <description><![CDATA[当时禁不起 你我情绪的暴雨 后来美如一场风景 是年纪的笔 不知不觉地改写自己 把晴空万里 搬进我的世界里 听歌 餐叙 旅行 快乐与伤心 一一沉淀安静成四季 像候鸟飞]]></description>
 </item></channel>
 </rss>
