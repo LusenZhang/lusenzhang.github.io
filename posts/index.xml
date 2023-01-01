@@ -3,7 +3,14 @@
         <title>所有文章 - helloEdwin</title>
         <link>https://lusenzhang.github.io/posts/</link>
         <description>所有文章 | helloEdwin</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 11 Dec 2022 23:52:38 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 31 Dec 2022 18:04:42 -0500</lastBuildDate><atom:link href="https://lusenzhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2022 Summary</title>
+    <link>https://lusenzhang.github.io/2022-summary/</link>
+    <pubDate>Sat, 31 Dec 2022 18:04:42 -0500</pubDate>
+    <author>作者</author>
+    <guid>https://lusenzhang.github.io/2022-summary/</guid>
+    <description><![CDATA[你做三四月的事，八九月自有答案 再过一个小时就是2023年了，我也终于要迈向三十岁的队伍中。站在这个节点上，我想跟十年前的自己来一场时空对话，]]></description>
+</item><item>
     <title>旅行的意义</title>
     <link>https://lusenzhang.github.io/the-meaning-of-traveling/</link>
     <pubDate>Sun, 11 Dec 2022 23:52:38 -0500</pubDate>
@@ -66,12 +73,5 @@
     <author>作者</author>
     <guid>https://lusenzhang.github.io/how-to-fall-in-love/</guid>
     <description><![CDATA[现在的人分手能力远远大于相爱能力，我不恋爱不结婚我也可以在这个世界上过的很好。 两个相遇，外面再动荡，但是小世界里面很温暖。 我爱他/她，到底爱]]></description>
-</item><item>
-    <title>立秋</title>
-    <link>https://lusenzhang.github.io/2021-fall/</link>
-    <pubDate>Fri, 06 Aug 2021 23:13:07 -0400</pubDate>
-    <author>作者</author>
-    <guid>https://lusenzhang.github.io/2021-fall/</guid>
-    <description><![CDATA[立秋到，贴秋膘，冬去春来身体好。 今天早上醒来刷了一下朋友圈，看到很多小伙伴在感慨不知不觉竟然秋天来了。是啊，我也很惊讶怎么就突然秋天了呢。可]]></description>
 </item></channel>
 </rss>
